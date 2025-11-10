@@ -9,7 +9,7 @@ a swagger like theme for [apidoc](https://github.com/apidoc/apidoc) >= v0.5x
 ## How to install
 
 ```bash
-npm i @gitawego/apidoc-theme apidoc -D
+npm i chyuaner/apidoc-theme apidoc -D
 
 ```
 
